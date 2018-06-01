@@ -10,7 +10,7 @@ npm install toolpouchjs
 ```
 
 ##### Usage example:
-```
+``` javascript
 import { bind } from 'toolpouchjs';
 
 class App {
