@@ -15,7 +15,7 @@ import { bind } from 'toolpouchjs';
 
 class App {
   constructor(config) {
-    bind(this, ['draw', 'update']);
+    bind(this, ['render', 'update']);
   }
   
   render() {
